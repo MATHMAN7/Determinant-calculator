@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/det(A)/cmake-build-debug/CMakeFiles/det_A_.dir
+C:/Users/PC/CLionProjects/det(A)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/det(A)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
