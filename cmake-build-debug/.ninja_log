@@ -1,6 +1,0 @@
-# ninja log v6
-28	1699	7762689616925386	CMakeFiles/det_A_.dir/minor.cpp.obj	8a3246ee878a43a9
-16	2190	7762689616805696	CMakeFiles/det_A_.dir/row-swap-matrix.cpp.obj	396d94fd2b7732fe
-5	2466	7762689616695991	CMakeFiles/det_A_.dir/main.cpp.obj	a8a0cc2303587fdd
-1702	2934	7762689633660087	CMakeFiles/det_A_.dir/determinant.cpp.obj	359ad38e9b76a4c1
-2934	3382	7762689645985381	det_A_.exe	ec40b61491114af3
